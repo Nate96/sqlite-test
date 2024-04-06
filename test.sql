@@ -10,9 +10,11 @@
 --INSERT INTO User values(3, "NOT Bill", "Password1", "email@email.com");
 --INSERT INTO User values(4, "Phill", "Password1", "email@email.com");
 
+-- Options 
 .headers on
 .mode columns
+.output results.txt
 
 SELECT * from User;
 
-select User.name from User;
+.output stdout

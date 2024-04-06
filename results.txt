@@ -4,9 +4,3 @@ id  name      password   email
 2   Bill      Password1  email@email.com
 3   NOT Bill  Password1  email@email.com
 4   Phill     Password1  email@email.com
-name    
---------
-Nate    
-Bill    
-NOT Bill
-Phill   
